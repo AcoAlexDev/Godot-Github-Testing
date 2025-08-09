@@ -3,3 +3,6 @@ https://raw.githubusercontent.com/AcoAlexDev/Godot-Github-Testing/refs/heads/mai
 
 Project Folders
 https://raw.githubusercontent.com/AcoAlexDev/Godot-Github-Testing/refs/heads/main/Folder
+
+Skip Next
+https://raw.githubusercontent.com/AcoAlexDev/Godot-Github-Testing/refs/heads/main/file.txt
