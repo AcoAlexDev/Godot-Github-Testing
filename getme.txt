@@ -1,3 +1,2 @@
-Get me content
-RAW File Path
-https://github.com/AcoAlexDev/Godot-Github-Testing/blob/main/testfile.acoscript
+Projects
+https://raw.githubusercontent.com/AcoAlexDev/Godot-Github-Testing/refs/heads/main/testfile.acoscript
