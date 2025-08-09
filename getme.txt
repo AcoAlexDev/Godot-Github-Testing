@@ -1,2 +1,5 @@
-Projects
+Projects Files
 https://raw.githubusercontent.com/AcoAlexDev/Godot-Github-Testing/refs/heads/main/testfile.acoscript
+
+Project Folders
+https://raw.githubusercontent.com/AcoAlexDev/Godot-Github-Testing/refs/heads/main/Folder
